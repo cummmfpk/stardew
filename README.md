@@ -8,6 +8,6 @@ To add mods to a new device, in the `Mods` directory:
 
 ```
 git init
-git remote add origin https://github.com/cummmfpk/stardewmods
+git remote add origin https://github.com/cummmfpk/stardew
 git pull origin master
 ```
