@@ -1,3 +1,8 @@
+# Installed by SMAPI
 /ConsoleCommands
 /ErrorHandler
 /SaveBackup
+
+# Misc. Files
+.DS_Store
+
