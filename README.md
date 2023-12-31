@@ -11,3 +11,9 @@ git init
 git remote add origin https://github.com/cummmfpk/stardew
 git pull origin master
 ```
+
+To update mods:
+
+```
+git pull
+```
