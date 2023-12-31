@@ -6,3 +6,6 @@
 # Misc. Files
 .DS_Store
 
+# Save file specific configs
+/NPCMapLocations/config/*_*.json
+
