@@ -1,7 +1,7 @@
 {
   "Controls": {
     "ToggleLookup": "F1, LeftStick, MouseX1",
-    "ToggleSearch": "LeftShift + F1, RightStick, MouseX2",
+    "ToggleSearch": "LeftShift + F1, MouseX2",
     "ScrollUp": "Up",
     "ScrollDown": "Down",
     "PageUp": "PageUp",
