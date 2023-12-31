@@ -8,4 +8,5 @@
 
 # Save file specific configs
 /NPCMapLocations/config/*_*.json
+/UIInfoSuite2/data/*_*.json
 
