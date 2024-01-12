@@ -23,7 +23,7 @@
   "RecycleCooking": "Disabled",
   "RecycleUnknownRecipes": false,
   "RecycleFuzzyItems": false,
-  "UseUniformGrid": false,
+  "UseUniformGrid": true,
   "SortBigLast": false,
   "CraftingAlphabetic": false,
   "UseSeasoning": "Enabled",
